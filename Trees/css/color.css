@@ -1,0 +1,26 @@
+
+	body{
+	font-family: 'Lato', sans-serif;
+	color: #14013d;
+	font-weight: 300;
+}
+
+.behind{
+	background-color:rgb(69,120,1);
+}
+
+.behinda{
+	background-color:rgb(150,30,10);
+}
+
+.james{
+	background-color:rgb(92,100,100);
+}
+p{
+	padding: 20px;
+	margin: 5px;    
+    border: 2px solid grey;
+}
+.pad{
+	margin: 5px;
+}
